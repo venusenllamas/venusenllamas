@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @venusenllamas
+- 👀 I’m interested in python, gis and creative coding
+- 🌱 I’m currently learning python and sql
+- 📫 You can reach me at mariacamila.jar[at]gmail.com
